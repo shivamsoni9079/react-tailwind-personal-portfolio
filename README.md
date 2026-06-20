@@ -1,16 +1,61 @@
-# React + Vite
+# Shivam Soni Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio website built with React, Tailwind CSS, and Vite.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Responsive Design
+* Modern UI/UX
+* Project Showcase
+* Skills & Achievements Section
+* Learning Journey Timeline
+* Functional Contact Form (Web3Forms)
+* Resume Download
+* GitHub & LinkedIn Integration
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React
+* Vite
+* Tailwind CSS
+* JavaScript
+* Web3Forms
 
-## Expanding the ESLint configuration
+## Projects Included
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Plant E-Commerce Landing Page
+
+A modern and responsive plant landing page built with HTML, CSS, and JavaScript.
+
+### Snake Game
+
+Responsive snake game featuring levels, score tracking, and smooth gameplay.
+
+### Anime Streaming Web Application
+
+Anime streaming platform built using HTML, CSS, JavaScript, and Jikan API integration.
+
+## Installation
+
+```bash
+npm install
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
+
+## Live Demo
+
+Add your deployed Vercel link here.
+
+## Author
+
+Shivam Soni
+
+GitHub: https://github.com/shivamsoni9079
+
+LinkedIn: https://www.linkedin.com/in/shivam-soni9079
