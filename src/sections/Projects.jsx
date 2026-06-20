@@ -17,9 +17,19 @@ const projects = [
       "Modern Snake Game with responsive design, level system, high scores, sound effects, game-over screen, and smooth gameplay using vanilla JavaScript.",
     image: "/projects/Snake-game.png",
     tags: ["HTML5", "CSS", "JavaScript"],
-    link: "",
+    link: "https://snake-game-amber-delta.vercel.app/",
     github: "https://github.com/shivamsoni9079/snake-game-pro",
   },
+  {
+    title: "Shivam Soni Portfolio",
+    description:
+      "Modern responsive portfolio website built with React, Tailwind CSS, and Vite. Features project showcase, skills, achievements, learning journey, and contact form integration.",
+    image: "/projects/Portfolio-project.png",
+    tags: ["React", "Tailwind CSS"],
+    link: "https://shivam-soni-portfolio.vercel.app/",
+    github: "https://github.com/shivamsoni9079/react-tailwind-personal-portfolio",
+  },
+
   {
   title: "Anime Streaming Web Application",
   description: `Developed a fully responsive Anime Streaming Web Application using HTML5, CSS3 and JavaScript with real-time API integration using the Jikan API. Built dynamic anime listing pages, reusable components, pagination and interactive UI sections for a smooth user experience.`,
