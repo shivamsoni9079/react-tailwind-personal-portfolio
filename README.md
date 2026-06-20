@@ -50,7 +50,7 @@ npm run build
 
 ## Live Demo
 
-Add your deployed Vercel link here.
+https://shivam-soni-portfolio-6uvyu7dea-shivam-soni-s-projects1.vercel.app/
 
 ## Author
 
