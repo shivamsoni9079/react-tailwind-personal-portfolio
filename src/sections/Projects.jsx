@@ -3,6 +3,14 @@ import { ArrowUpRight, Github } from "lucide-react";
 import { AnimatedBorderButton } from "@/components/AnimatedBorderButton";
 const projects = [
   {
+  title: "Anime Streaming Web Application",
+  description: `Developed a fully responsive Anime Streaming Web Application using HTML5, CSS3 and JavaScript with real-time API integration using the Jikan API. Built dynamic anime listing pages, reusable components, pagination and interactive UI sections for a smooth user experience.`,
+  image: "/projects/anime-streaming.png",
+  tags: ["HTML", "CSS", "JavaScript", "Jikan API"],
+  link: "https://ss-anime-streaming-website.vercel.app/",
+  github: "https://github.com/shivamsoni9079/SS-anime-streaming-website",
+},
+  {
     title: "Plant E Commerce Landing Page",
     description:
       "A modern and responsive plant landing page built with HTML, CSS, and JavaScript, featuring a clean design, engaging visuals, and mobile-friendly layout.",
@@ -30,14 +38,7 @@ const projects = [
     github: "https://github.com/shivamsoni9079/react-tailwind-personal-portfolio",
   },
 
-  {
-  title: "Anime Streaming Web Application",
-  description: `Developed a fully responsive Anime Streaming Web Application using HTML5, CSS3 and JavaScript with real-time API integration using the Jikan API. Built dynamic anime listing pages, reusable components, pagination and interactive UI sections for a smooth user experience.`,
-  image: "/projects/anime-streaming.png",
-  tags: ["HTML", "CSS", "JavaScript", "Jikan API"],
-  link: "https://ss-anime-streaming-website.vercel.app/",
-  github: "https://github.com/shivamsoni9079/SS-anime-streaming-website",
-},
+  
 ];
 
 export const Projects = () => {
